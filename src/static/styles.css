@@ -86,6 +86,24 @@ section h3 {
   font-size: 14px;
 }
 
+.participant-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.participant-list li {
+  margin-bottom: 5px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+
+.participant-icon {
+  margin-right: 8px;
+  color: #1a237e;
+  font-size: 16px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
